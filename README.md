@@ -21,4 +21,4 @@ This project aims to collect/curate datasets on mathematics and theoretical comp
 - Searching/sorting algorithms, BFS, DFS, etc.
 - Time and space complexity
 
-You can reach out to us via [Discord] (https://discord.gg/x9MkthME)
+You can reach out to us via [Discord](https://discord.gg/x9MkthME)
