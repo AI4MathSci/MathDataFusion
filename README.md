@@ -1,5 +1,5 @@
 ## Just launched, under construction
-Migrating from the previous github repo going on: https://github.com/henryj18/AI4Math
+Migrating from the previous github repo going on: [AI4math](https://github.com/henryj18/AI4Math)
 
 # Datasets in Mathematics & Theoretical Computer Science for Foundation Models Training
 ## Overview
