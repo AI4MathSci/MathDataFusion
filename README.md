@@ -1,3 +1,5 @@
+## Just launched, under construction
+
 # Datasets in Mathematics & Theoretical Computer Science for Foundation Models Training
 ## Overview
 In the era of Generative AI, empowering AI systems with mathematics & reasoning capability is becoming an indispensable requirement. Such capability has always been one of the golden standards to gauge intelligence, human or artificial.
@@ -17,3 +19,6 @@ This project aims to collect/curate datasets on mathematics and theoretical comp
 - Trees, Graphs
 - Searching/sorting algorithms, BFS, DFS, etc.
 - Time and space complexity
+
+## Discord
+https://discord.gg/x9MkthME
