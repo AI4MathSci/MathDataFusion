@@ -1,6 +1,6 @@
 ## Just launched, under construction
-Migrating from the previous github repo going on: [AI4math](https://github.com/henryj18/AI4Math)
-
+We will move files/folders from the previous github repo: [AI4math](https://github.com/henryj18/AI4Math) to this repo as necessary 
+ 
 # Datasets in Mathematics & Theoretical Computer Science for Foundation Models Training
 ## Overview
 In the era of Generative AI, empowering AI systems with mathematics & reasoning capability is becoming an indispensable requirement. Such capability has always been one of the golden standards to gauge intelligence, human or artificial.
