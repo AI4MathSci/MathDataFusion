@@ -1,5 +1,5 @@
 ## This repo is archived
-Our mission has changed, we will pursue an approach of agentic workflow powered by LLM API to solve advanced math problems instead of training LLMs to solve such problems. The previous approach described in this repo does not apply anymore, so it is archived. For details, refer to the Readme of this oagnization [AI4mathSci](https://github.com/AI4MathSci)
+Our mission has changed, we will pursue an approach of agentic workflow powered by LLM API to solve advanced math problems instead of training LLMs to do that. The previous approach described in this repo does not apply anymore, so it is archived.
 
 ## Previous repo
 [AI4math](https://github.com/henryj18/AI4Math)
